@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
-    <version>0.0.1</version>
+    <id>BowerPower</id>
+    <version>0.0.2</version>
     <authors>Sudipto</authors>
     <owners>Sudipto</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
-    <projectUrl>http://https://github.com/sudiptosen/BowerPower</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <projectUrl>https://github.com/sudiptosen/BowerPower</projectUrl>
+    <iconUrl>https://github.com/sudiptosen/BowerPower/blob/master/content/bowerpower.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Add easy bower.js support in Visual Studio Package Manager</description>
-    <releaseNotes>First checkin.</releaseNotes>
+    <releaseNotes>Corrected the project Url.</releaseNotes>
     <copyright>Copyright 2013</copyright>
     <tags>Bower Bower.js BowerJs</tags>
     <dependencies>
