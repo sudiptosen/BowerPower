@@ -7,7 +7,6 @@
     <owners>Sudipto</owners>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
     <projectUrl>https://github.com/sudiptosen/BowerPower</projectUrl>
-    <iconUrl>None</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Add easy bower.js support in Visual Studio Package Manager</description>
     <releaseNotes>Corrected the project Url.</releaseNotes>
