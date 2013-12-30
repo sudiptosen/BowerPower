@@ -11,14 +11,14 @@ The goal of this project is the give a quick start to the bower based developmen
   - It extends Visual Studio's Package Manager Console's commands
   - It's a work in progress for now :)
 
-Install
+Install (Visual Studio only)
 --
-When you do 
+When you run the following in Package Manager console
 
 ```
 Install-Package bowerpower
 ```
-it automatically installs required dependencies
+it installs bowerpower and it's dependencies 
 
 
 Please Note
@@ -27,8 +27,10 @@ For installing the package you have to run Visual Studio as **administrator**
 
 ----
                                                             
-Two commands
+Two commands (after installing in VS)
 ---
+
+In Package Manager console, you can do the following
 
 ```
 PS> bowerinit
